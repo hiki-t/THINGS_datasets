@@ -1,8 +1,10 @@
 # THINGS Datasets
 
-Here saves datasets of the THINGS projects
+<br>
 
-1. the fMRI paper ( https://elifesciences.org/articles/82580#content )
+Here saves datasets of the THINGS projects ( https://things-initiative.org/ )
+
+1. the THINGS fMRI paper ( https://elifesciences.org/articles/82580#content )
     - original behavioral dataset source ( https://osf.io/f5rn6/ )
     - behavioral data
         - triplet data ( triplets_large_final_correctednc_correctedorder.csv )
@@ -10,3 +12,5 @@ Here saves datasets of the THINGS projects
     - fMRI data
         - raw data
         - cleaned data
+
+<br>
