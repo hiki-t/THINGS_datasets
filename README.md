@@ -1,4 +1,4 @@
-# THINGS_datasets
+# THINGS Datasets
 
 Here saves datasets of the THINGS projects
 
